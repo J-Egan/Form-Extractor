@@ -1,0 +1,9 @@
+F:\Development\C#\UPWork\Form Extractor\Form-Extractor\Form Extractor\Form Extractor\bin\Debug\Form Extractor.exe.config
+F:\Development\C#\UPWork\Form Extractor\Form-Extractor\Form Extractor\Form Extractor\bin\Debug\Form Extractor.exe
+F:\Development\C#\UPWork\Form Extractor\Form-Extractor\Form Extractor\Form Extractor\bin\Debug\Form Extractor.pdb
+F:\Development\C#\UPWork\Form Extractor\Form-Extractor\Form Extractor\Form Extractor\obj\Debug\Form Extractor.csprojAssemblyReference.cache
+F:\Development\C#\UPWork\Form Extractor\Form-Extractor\Form Extractor\Form Extractor\obj\Debug\Form_Extractor.Form1.resources
+F:\Development\C#\UPWork\Form Extractor\Form-Extractor\Form Extractor\Form Extractor\obj\Debug\Form_Extractor.Properties.Resources.resources
+F:\Development\C#\UPWork\Form Extractor\Form-Extractor\Form Extractor\Form Extractor\obj\Debug\Form Extractor.csproj.GenerateResource.cache
+F:\Development\C#\UPWork\Form Extractor\Form-Extractor\Form Extractor\Form Extractor\obj\Debug\Form Extractor.exe
+F:\Development\C#\UPWork\Form Extractor\Form-Extractor\Form Extractor\Form Extractor\obj\Debug\Form Extractor.pdb
